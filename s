@@ -1,7 +1,7 @@
 {
     "whitelisted": [
         "kaludon_kabaap",
-        "teslawashere0",
+        "iamyourfather",
         "anotherguy",
         "anotherguy",
         "anotherguy"
