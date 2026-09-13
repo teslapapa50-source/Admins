@@ -2,7 +2,7 @@
     "whitelisted": [
         "kaludon_kabaap",
         "sukiie_09",
-        "anotherguy",
+        "horize1n",
         "anotherguy",
         "anotherguy"
     ]
