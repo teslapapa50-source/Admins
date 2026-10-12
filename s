@@ -1,9 +1,10 @@
 {
     "whitelisted": [
         "kaludon_kabaap",
+        "Teslapapa7",
         "sukiie_09",
-        "someone",
-        "Agstaimoor1235",
+        "77thconstituent26",
+        "Hooly_priest",
         "horize1n"
     ]
 }
